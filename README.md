@@ -10,4 +10,4 @@ Para recomeçar, atualize a página (F5).
 _________________________________________________________________________
 
 
-![Imagem da Aplicação Flappy Bird](imgs/flappybird.png)## !
+![Imagem da Aplicação Flappy Bird](imgs/flappybird.png)
